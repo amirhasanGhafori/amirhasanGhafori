@@ -3,7 +3,7 @@
 
 <!-- introduction -->
 <h1 align="center">
-https://readme-typing-svg.herokuapp.com/demo/?weight=600&size=26&pause=500&color=116FF7&lines=Hi+There+%F0%9F%91%8B;Myself+Amirhasan+!;Web+%26+AI+Developer+%F0%9F%92%BB
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=500&color=116FF7&width=435&lines=Hi+There+%F0%9F%91%8B;Myself+Amirhasan+!;Web+%26+AI+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
 
 
