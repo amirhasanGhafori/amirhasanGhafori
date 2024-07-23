@@ -1,9 +1,9 @@
 <!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
+
 
 <!-- introduction -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There;Myself+Amirhasan+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&width=435&lines=Hi+There;Myself+Amirhasan+!;Web+Developer+" alt="Typing SVG" /></a>
 </h1>
 
 
