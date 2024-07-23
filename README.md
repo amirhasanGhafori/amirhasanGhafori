@@ -3,7 +3,7 @@
 
 <!-- introduction -->
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=500&color=116FF7&width=435&lines=Hi+There+%F0%9F%91%8B;Myself+Amirhasan+!;Web+%26+AI+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=500&color=116FF7&width=435&lines=Hi+There+%F0%9F%91%8B;Myself+Amirhasan+!;Web+%26+AI+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
 
 
@@ -11,14 +11,14 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  Hi, I'm Amirhasan Ghafori, Web & AI Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from Iran 🇮🇳.
   <br />
   <br />
-  🎓 Currently a high school student.
+  🎓 Currently, I have a master's degree in software.
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
-  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
+  🧑‍💼 I’m currently a freelancer working as a Laravel developer.
   <br />
 </p>
 
@@ -26,12 +26,10 @@
 <div align="center"> 
 <!-- youtube -->
   <a href="https://www.youtube.com/@OPGAMER." target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <!-- twitter -->
-  <a href="https://twitter.com/technicalshubam" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
   <!-- gmail -->
-  <a href="mailto:sanidhya.verma12345@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:amirhasanghafori.tabar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/sanidhyy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/amirhasan-ghafori-tabar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <hr />
