@@ -4,11 +4,11 @@
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Hi+There;Myself+Amirhasan+!;Web+Developer+">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There;Myself+Amirhasan+!;Web+Developer+)](https://git.io/typing-svg)
   </a>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There;Myself+Amirhasan+!;Web+Developer+)](https://git.io/typing-svg)
+
 
 <br />
 <!-- about me -->
