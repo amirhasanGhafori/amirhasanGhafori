@@ -39,13 +39,13 @@
 <p align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,laravel" />
+    <img src="https://skillicons.dev/icons?i=git,docker,atom,py,phpstorm,bootstrap,github,laravel" />
   </a>
 </p>
 <p align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind,vue" />
+    <img src="https://skillicons.dev/icons?i=react,flutter,html,css,tailwind,js,mongodb,php" />
   </a>
 </p>
 
