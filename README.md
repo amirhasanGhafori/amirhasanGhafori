@@ -150,7 +150,13 @@
     </picture>
   </a>
 <!-- repo 2 -->
-  
+   <a align="right" href="https://github.com/amirhasanGhafori/AI_Fire_detection" title="AI Fire detection">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AmirhasanGhafori&repo=AI_Fire_detection&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AmirhasanGhafori&repo=AI_Fire_detection&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirhasanGhafori&repo=AI_Fire_detection&theme=graywhite&border_radius=10" alt="AmirhasanGhafori repository stats - AI_Fire_detection" />
+    </picture>
+  </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <!-- second row -->
