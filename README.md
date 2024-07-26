@@ -11,7 +11,7 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Amirhasan Ghafori, Web & AI Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from Iran 🇮🇳.
+  Hi, I'm Amirhasan Ghafori, Web & AI Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from Iran.
   <br />
   <br />
   🎓 Currently, I have a master's degree in software.
